@@ -72,30 +72,38 @@ def discover(soup,base_url,mid,museum_zh):
 
 def discover_jinju(soup,base_url,mid,museum_zh):
     found=[]; seen=set()
-    for node in soup.find_all(string=re.compile(r"2026[-.]09[-.]22")):
-        parent=node.parent
-        text=clean_title(parent.parent.get_text(" ",strip=True) if parent and parent.parent else node)
-        rng=extract_range(text)
+    # The Jinju list uses a date node and a separate title/detail link
+    # inside the same exhibition card. Walk upward from the title link
+    # so the complete card text can supply the date range.
+    for a in soup.find_all("a",href=True):
+        title=clean_title(a.get_text(" ",strip=True))
+        if "나의 인생 박물관" not in title:
+            continue
+        container=a
+        rng=None
+        for _ in range(10):
+            container=container.parent if container else None
+            if not container:
+                break
+            text=clean_title(container.get_text(" ",strip=True))
+            rng=extract_range(text)
+            if rng:
+                break
         if not rng:
             continue
-        links=[]
-        container=parent
-        for _ in range(5):
-            if not container: break
-            links.extend(container.find_all("a",href=True))
-            if links: break
-            container=container.parent
-        title=""
-        href=base_url
-        for a in links:
-            t=clean_title(a.get_text(" ",strip=True))
-            if "나의 인생 박물관" in t:
-                title=t; href=urljoin(base_url,a["href"]); break
-        if title:
-            key=(title,rng[0],rng[1])
-            if key not in seen:
-                seen.add(key)
-                found.append({"museum_id":mid,"museum_zh":museum_zh,"title_ko":title,"start":rng[0],"end":rng[1],"type":"특별전","source_url":href})
+        href=urljoin(base_url,a["href"])
+        key=(title,rng[0],rng[1])
+        if key not in seen:
+            seen.add(key)
+            found.append({
+                "museum_id":mid,
+                "museum_zh":museum_zh,
+                "title_ko":title,
+                "start":rng[0],
+                "end":rng[1],
+                "type":"특별전",
+                "source_url":href
+            })
     return found
 
 def discover_site(url,mid,museum_zh):
@@ -121,6 +129,11 @@ def discover_site(url,mid,museum_zh):
             key=(item["title_ko"],item["start"],item["end"])
             if key not in seen:
                 seen.add(key); found.append(item)
+        if mid=="jinju":
+            for item in discover_jinju(ps,pf,mid,museum_zh):
+                key=(item["title_ko"],item["start"],item["end"])
+                if key not in seen:
+                    seen.add(key); found.append(item)
     return found, final_url, len(pages)
 
 def merge(payload,items,checked):
