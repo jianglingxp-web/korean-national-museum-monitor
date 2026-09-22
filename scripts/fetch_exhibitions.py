@@ -14,16 +14,16 @@ HEADERS={"User-Agent":"Mozilla/5.0 (compatible; Korean-National-Museum-Monitor/1
 MUSEUMS=[
 ("central","국립중앙박물관","https://vcm.museum.go.kr/MUSEUM/contents/M0202010000.do?menuId=current"),
 ("gyeongju","국립경주박물관","https://gyeongju.museum.go.kr/kor/html/sub02/0202.html"),
-("gwangju","국립광주박물관","https://gwangju.museum.go.kr/prog/specialDisplay/kor/sub02_02/s/new/list.do"),
-("jeonju","국립전주박물관","https://jeonju.museum.go.kr/special.es?mid=a10201010000"),
-("daegu","국립대구박물관","https://daegu.museum.go.kr/prog/speclDspy/01/kor/sub03_02_01/list.do"),
-("buyeo","국립부여박물관","https://buyeo.museum.go.kr/"),
-("gongju","국립공주박물관","https://gongju.museum.go.kr/"),
+("gwangju","국립광주박물관","https://gwangju.museum.go.kr/"),
+("jeonju","국립전주박물관","https://jeonju.museum.go.kr/"),
+("daegu","국립대구박물관","https://daegu.museum.go.kr/"),
+("buyeo","국립부여박물관","https://buyeo.museum.go.kr/index.do"),
+("gongju","국립공주박물관","https://gongju.museum.go.kr/kor/index.do"),
 ("jinju","국립진주박물관","https://jinju.museum.go.kr/kor/html/sub02/0202.html?GotoPage=1"),
 ("cheongju","국립청주박물관","https://cheongju.museum.go.kr/www/index.do"),
 ("gimhae","국립김해박물관","https://gimhae.museum.go.kr/kr/html/sub02/020201.html"),
-("jeju","국립제주박물관","https://jeju.museum.go.kr/html/kr/sub02/sub02_0202.html"),
-("chuncheon","국립춘천박물관","https://chuncheon.museum.go.kr/prog/spclExht/kor/sub02_03/list.do"),
+("jeju","국립제주박물관","https://jeju.museum.go.kr/"),
+("chuncheon","국립춘천박물관","https://chuncheon.museum.go.kr/kor/index.do"),
 ("naju","국립나주박물관","https://naju.museum.go.kr/prog/spclexht/A/kor/sub02_02_01/list.do"),
 ("iksan","국립익산박물관","https://iksan.museum.go.kr/kor/html/sub02/0202.html"),
 ]
@@ -70,6 +70,31 @@ def discover(soup,base_url,mid,museum_zh):
         found.append({"museum_id":mid,"museum_zh":museum_zh,"title_ko":title,"start":rng[0],"end":rng[1],"type":typ,"source_url":href})
     return found
 
+def discover_site(url,mid,museum_zh):
+    soup, final_url = fetch(url)
+    pages=[(soup,final_url)]
+    seen_urls={final_url}
+    for a in soup.find_all("a",href=True):
+        label=clean_title(a.get_text(" ",strip=True))
+        href=urljoin(final_url,a["href"])
+        if href in seen_urls or not href.startswith("https://"+final_url.split("/")[2]):
+            continue
+        if any(k in label for k in ("전시","특별전시","기획전시","현재전시","예정전시","지난전시","열린전시")):
+            seen_urls.add(href)
+            try:
+                pages.append(fetch(href))
+            except Exception:
+                pass
+        if len(pages)>=12:
+            break
+    found=[]; seen=set()
+    for ps,pf in pages:
+        for item in discover(ps,pf,mid,museum_zh):
+            key=(item["title_ko"],item["start"],item["end"])
+            if key not in seen:
+                seen.add(key); found.append(item)
+    return found, final_url, len(pages)
+
 def merge(payload,items,checked):
     existing={(x.get("museum_id"),x.get("title_ko"),x.get("start")):x for x in payload.get("exhibitions",[])}
     for item in items:
@@ -90,12 +115,12 @@ def run():
     payload=json.loads(OUT.read_text(encoding="utf-8"))
     checked=date.today().isoformat()
     payload.setdefault("meta",{}).update({"lastChecked":checked,"sourcePolicy":"official-museum-sites"})
-    failures=[]; count=0
+    failures=[]; count=0; source_health=[]
     for mid,name,url in MUSEUMS:
         try:
             soup,final=fetch(url)
             if not soup.get_text(" ",strip=True): raise RuntimeError("empty official page")
-            items=discover(soup,final,mid,name)
+            items, final, pages_checked = discover_site(url,mid,name)
             count+=len(items)
             merge(payload,items,checked)
             source_health.append({
@@ -105,8 +130,8 @@ def run():
                 "http":"200",
                 "final_url":final,
                 "discovered_count":len(items),
-                "parser":"generic-v1",
-                "warning":"no dated exhibition anchors found" if not items else ""
+                "parser":"site-link-v2",
+                "warning":f"checked {pages_checked} official pages; no dated exhibition anchors found" if not items else f"checked {pages_checked} official pages"
             })
         except Exception as e:
             failures.append({"museum_id":mid,"museum":name,"error":str(e)})
