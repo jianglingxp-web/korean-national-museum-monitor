@@ -1,4 +1,4 @@
-from fetch_exhibitions import MUSEUMS, fetch, discover
+from fetch_exhibitions import MUSEUMS, discover_site
 
 def main():
     failures = []
@@ -7,11 +7,11 @@ def main():
 
     for mid, name, url in MUSEUMS:
         try:
-            soup, final_url = fetch(url)
-            items = discover(soup, final_url, mid, name)
+            items, final_url, pages_checked = discover_site(url, mid, name)
             status = "OK" if items else "WARN"
             print(f"[{status}] {name}: {len(items)} dated exhibition records")
             print(f"       {final_url}")
+            print(f"       official pages checked: {pages_checked}")
             if not items:
                 failures.append((mid, name, "no dated exhibition records discovered"))
         except Exception as exc:
