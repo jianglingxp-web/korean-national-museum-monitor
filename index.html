@@ -1,1 +1,54 @@
-<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>韩国国立博物馆｜特展监测</title><link rel="stylesheet" href="styles.css"></head><body><header><div><div class="eyebrow">KOREA NATIONAL MUSEUMS</div><h1>韩国国立博物馆重要特展监测</h1><p>14家国立博物馆｜官方来源｜持续更新</p></div><div class="checked" id="checked">数据加载中…</div></header><main><section class="toolbar"><input id="q" placeholder="搜索展览名称、博物馆、地点…"><select id="museum"><option value="">全部博物馆</option></select><select id="status"><option value="">全部状态</option><option value="ongoing">已开始</option><option value="upcoming">即将开始</option><option value="ended">已结束</option></select><select id="type"><option value="">全部类型</option></select><button id="future">未来180天</button></section><section class="stats"><div><b id="total">—</b><span>展览</span></div><div><b id="ongoing">—</b><span>进行中</span></div><div><b id="upcoming">—</b><span>即将开始</span></div><div><b id="futureCount">—</b><span>未来180天</span></div></section><section id="list"></section></main><footer>仅展示本项目配置的14家韩国国立博物馆。日期与状态以官方来源为准；自动抓取失败时保留既有记录。</footer><script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#1d2a31">
+<title>韩国国立博物馆｜展览情报站</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="hero">
+  <div class="hero-inner">
+    <div class="eyebrow">KOREA NATIONAL MUSEUMS · EXHIBITION MONITOR</div>
+    <div class="hero-row">
+      <div>
+        <h1>韩国国立博物馆<br><em>展览情报站</em></h1>
+        <p>14家国立博物馆的展览日历与特展信息，持续追踪官方来源。</p>
+      </div>
+      <div class="sync-box"><span>LAST SYNC</span><strong id="checked">数据加载中…</strong><small>官方来源优先 · 自动检查</small></div>
+    </div>
+    <div class="museum-strip" id="museumStrip"></div>
+  </div>
+</header>
+
+<main>
+  <section class="overview">
+    <div class="section-kicker">TODAY'S OVERVIEW</div>
+    <div class="stats">
+      <div><span>全部记录</span><b id="total">—</b></div>
+      <div><span>正在展出</span><b id="ongoing">—</b></div>
+      <div><span>即将开始</span><b id="upcoming">—</b></div>
+      <div><span>未来180天</span><b id="futureCount">—</b></div>
+    </div>
+  </section>
+
+  <section class="timeline-section">
+    <div class="section-head"><div><div class="section-kicker">EXHIBITION TIMELINE</div><h2>未来 180 天</h2></div><button id="future" class="text-button">查看全部展览 →</button></div>
+    <div id="timeline" class="timeline"></div>
+  </section>
+
+  <section class="database">
+    <div class="section-head"><div><div class="section-kicker">EXHIBITION DATABASE</div><h2>展览数据库</h2></div><div id="resultCount" class="result-count"></div></div>
+    <div class="toolbar">
+      <label class="search"><span>⌕</span><input id="q" placeholder="搜索展览、博物馆、地点…"></label>
+      <select id="museum"><option value="">全部博物馆</option></select>
+      <select id="status"><option value="">全部状态</option><option value="ongoing">正在展出</option><option value="upcoming">即将开始</option><option value="ended">已结束</option></select>
+      <select id="type"><option value="">全部类型</option></select>
+    </div>
+    <div id="list"></div>
+  </section>
+</main>
+
+<footer><div>韩国国立博物馆展览情报站</div><span>数据来自各馆官方页面 · 抓取失败时保留既有记录 · 本站为非官方信息整理工具</span></footer>
+<script src="app.js"></script>
+</body></html>
