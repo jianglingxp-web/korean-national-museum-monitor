@@ -14,7 +14,7 @@ HEADERS={"User-Agent":"Mozilla/5.0 (compatible; Korean-National-Museum-Monitor/1
 MUSEUMS=[
 ("central","국립중앙박물관","https://vcm.museum.go.kr/MUSEUM/contents/M0202010000.do?menuId=current"),
 ("gyeongju","국립경주박물관","https://gyeongju.museum.go.kr/kor/html/sub02/0202.html"),
-("gwangju","국립광주博物館","https://gwangju.museum.go.kr/kor/html/sub02/0202.html"),
+("gwangju","국립광주박물관","https://gwangju.museum.go.kr/kor/html/sub02/0202.html"),
 ("jeonju","국립전주박물관","https://jeonju.museum.go.kr/kor/html/sub02/0202.html"),
 ("daegu","국립대구박물관","https://daegu.museum.go.kr/kor/html/sub02/0202.html"),
 ("buyeo","국립부여박물관","https://buyeo.museum.go.kr/kor/html/sub02/0202.html"),
