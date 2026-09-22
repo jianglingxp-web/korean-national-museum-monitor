@@ -28,7 +28,7 @@ MUSEUMS=[
 ("iksan","국립익산박물관","https://iksan.museum.go.kr/kor/html/sub02/0202.html"),
 ]
 
-RANGE_RE=re.compile(r"(20\d{2})[.\-/]\s*(\d{1,2})[.\-/]\s*(\d{1,2})\s*[~–-]\s*(?:(20\d{2})[.\-/]\s*)?(\d{1,2})[.\-/]\s*(\d{1,2})")
+RANGE_RE=re.compile(r"(20\d{2})\s*[.\-/]\s*(\d{1,2})\s*[.\-/]\s*(\d{1,2})\s*[일]?\s*[~〜–-]\s*(?:(20\d{2})\s*[.\-/]\s*)?(\d{1,2})\s*[.\-/]\s*(\d{1,2})")
 TYPE_WORDS=("특별전","기획전","특별기획전","국제교류전","테마전","상설전")
 
 def fetch(url):
@@ -98,9 +98,28 @@ def run():
             items=discover(soup,final,mid,name)
             count+=len(items)
             merge(payload,items,checked)
+            source_health.append({
+                "museum_id":mid,
+                "museum":name,
+                "status":"ok",
+                "http":"200",
+                "final_url":final,
+                "discovered_count":len(items),
+                "parser":"generic-v1",
+                "warning":"no dated exhibition anchors found" if not items else ""
+            })
         except Exception as e:
             failures.append({"museum_id":mid,"museum":name,"error":str(e)})
-    payload["meta"]["sourceHealth"]=failures
+            source_health.append({
+                "museum_id":mid,
+                "museum":name,
+                "status":"error",
+                "discovered_count":0,
+                "parser":"generic-v1",
+                "error":str(e)
+            })
+    payload["meta"]["sourceHealth"]=source_health
+    payload["meta"]["sourceFailures"]=failures
     payload["meta"]["lastDiscoveryCount"]=count
     OUT.write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding="utf-8")
 
