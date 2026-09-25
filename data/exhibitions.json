@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "0.1.0",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "sourcePolicy": "official-museum-sites",
     "note": "Initial seed data; updater will preserve records when parsing fails.",
     "sourceHealth": [
@@ -189,7 +189,7 @@
       "type": "특별전",
       "source_url": "https://vcm.museum.go.kr/MUSEUM/contents/M0202010000.do?schM=view&menuId=current&exhiSpThemId=3529713&listType=list",
       "discovery": "seed",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isUpdated": true
     },
     {
@@ -204,7 +204,7 @@
       "important": true,
       "source_url": "https://vcm.museum.go.kr/MUSEUM/contents/M0202010000.do?schM=view&menuId=current&exhiSpThemId=3672087&listType=list",
       "discovery": "seed",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isUpdated": true
     },
     {
@@ -246,7 +246,7 @@
       "important": true,
       "source_url": "https://vcm.museum.go.kr/MUSEUM/contents/M0202020000.do?schM=view&menuId=upcomming&exhiSpThemId=3763677&listType=list",
       "discovery": "seed",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isUpdated": true
     },
     {
@@ -302,7 +302,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -318,7 +318,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -334,7 +334,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -350,7 +350,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -366,7 +366,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -382,7 +382,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -398,7 +398,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -414,7 +414,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -430,7 +430,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -446,7 +446,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -462,7 +462,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -478,7 +478,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -494,7 +494,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -510,7 +510,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -526,7 +526,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -542,7 +542,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -558,7 +558,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -574,7 +574,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -590,7 +590,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -606,7 +606,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -622,7 +622,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -638,7 +638,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -654,7 +654,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -670,7 +670,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -686,7 +686,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -702,7 +702,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -718,7 +718,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -734,7 +734,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -750,7 +750,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -766,7 +766,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -782,7 +782,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -798,7 +798,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -814,7 +814,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -830,7 +830,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -846,7 +846,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -862,7 +862,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -878,7 +878,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -894,7 +894,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -910,7 +910,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -926,7 +926,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -942,7 +942,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -958,7 +958,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -974,7 +974,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -990,7 +990,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1006,7 +1006,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1022,7 +1022,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1038,7 +1038,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1054,7 +1054,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1070,7 +1070,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1086,7 +1086,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1102,7 +1102,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1118,7 +1118,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1134,7 +1134,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1150,7 +1150,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1166,7 +1166,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1182,7 +1182,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1198,7 +1198,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1214,7 +1214,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1230,7 +1230,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1246,7 +1246,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1262,7 +1262,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1278,7 +1278,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1294,7 +1294,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1310,7 +1310,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1326,7 +1326,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1342,7 +1342,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1358,7 +1358,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1374,7 +1374,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1390,7 +1390,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1406,7 +1406,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1422,7 +1422,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1438,7 +1438,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1454,7 +1454,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1470,7 +1470,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1486,7 +1486,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1502,7 +1502,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1518,7 +1518,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1534,7 +1534,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1550,7 +1550,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1566,7 +1566,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1582,7 +1582,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1598,7 +1598,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1609,12 +1609,12 @@
       "start": "2026-07-29",
       "end": "2026-10-25",
       "type": "특별전",
-      "source_url": "https://gwangju.museum.go.kr/prog/permanentEstablishmentDisplay/kor/sub02_01/list.do;jsessionid=918CFB60DEBCB6EA36E5A5C636F15F0D",
+      "source_url": "https://gwangju.museum.go.kr/prog/permanentEstablishmentDisplay/kor/sub02_01/list.do;jsessionid=2A63493A299E44E27F14FE2C3CF3F92E",
       "id": "gwangju--2026-07-29",
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": true
     },
@@ -1625,12 +1625,12 @@
       "start": "2026-07-29",
       "end": "2026-10-25",
       "type": "특별전",
-      "source_url": "https://gwangju.museum.go.kr/prog/specialDisplay/kor/sub02_02/s/new/list.do;jsessionid=918CFB60DEBCB6EA36E5A5C636F15F0D",
+      "source_url": "https://gwangju.museum.go.kr/prog/specialDisplay/kor/sub02_02/s/new/list.do;jsessionid=2A63493A299E44E27F14FE2C3CF3F92E",
       "id": "gwangju--2026-07-29",
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": true
     },
@@ -1641,12 +1641,12 @@
       "start": "2026-07-29",
       "end": "2026-10-25",
       "type": "특별전",
-      "source_url": "https://gwangju.museum.go.kr/prog/dspyAlbum/kor/sub02_05/list.do;jsessionid=918CFB60DEBCB6EA36E5A5C636F15F0D",
+      "source_url": "https://gwangju.museum.go.kr/prog/dspyAlbum/kor/sub02_05/list.do;jsessionid=2A63493A299E44E27F14FE2C3CF3F92E",
       "id": "gwangju--2026-07-29",
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": true
     },
@@ -1657,12 +1657,12 @@
       "start": "2026-07-29",
       "end": "2026-10-25",
       "type": "특별전",
-      "source_url": "https://gwangju.museum.go.kr/prog/expHall/kor/exp/sub02_06/list.do;jsessionid=918CFB60DEBCB6EA36E5A5C636F15F0D",
+      "source_url": "https://gwangju.museum.go.kr/prog/expHall/kor/exp/sub02_06/list.do;jsessionid=2A63493A299E44E27F14FE2C3CF3F92E",
       "id": "gwangju--2026-07-29",
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": true
     },
@@ -1673,12 +1673,12 @@
       "start": "2026-07-29",
       "end": "2026-10-25",
       "type": "특별전",
-      "source_url": "https://gwangju.museum.go.kr/prog/eBook/kor/sub02_07_01/leafletMain/list.do;jsessionid=918CFB60DEBCB6EA36E5A5C636F15F0D",
+      "source_url": "https://gwangju.museum.go.kr/prog/eBook/kor/sub02_07_01/leafletMain/list.do;jsessionid=2A63493A299E44E27F14FE2C3CF3F92E",
       "id": "gwangju--2026-07-29",
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": true
     },
@@ -1694,7 +1694,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1710,7 +1710,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1726,7 +1726,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1742,7 +1742,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1758,7 +1758,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1774,7 +1774,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1790,7 +1790,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1806,7 +1806,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1822,7 +1822,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1838,7 +1838,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1854,7 +1854,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1870,7 +1870,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1886,7 +1886,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1902,7 +1902,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1918,7 +1918,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1934,7 +1934,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1950,7 +1950,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1966,7 +1966,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1982,7 +1982,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -1998,7 +1998,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2014,7 +2014,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2030,7 +2030,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2046,7 +2046,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2062,7 +2062,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2078,7 +2078,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2094,7 +2094,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2110,7 +2110,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2126,7 +2126,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2142,7 +2142,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2158,7 +2158,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2174,7 +2174,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2190,7 +2190,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2206,7 +2206,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2222,7 +2222,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2238,7 +2238,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2254,7 +2254,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2270,7 +2270,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2286,7 +2286,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2302,7 +2302,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2318,7 +2318,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2334,7 +2334,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2350,7 +2350,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2366,7 +2366,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2382,7 +2382,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2398,7 +2398,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2414,7 +2414,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2430,7 +2430,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2446,7 +2446,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2462,7 +2462,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2478,7 +2478,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2494,7 +2494,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2510,7 +2510,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2526,7 +2526,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2542,7 +2542,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2558,7 +2558,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2574,7 +2574,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2590,7 +2590,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2606,7 +2606,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2622,7 +2622,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2638,7 +2638,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2654,7 +2654,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2670,7 +2670,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2686,7 +2686,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2702,7 +2702,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2718,7 +2718,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2734,7 +2734,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2750,7 +2750,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2766,7 +2766,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2782,7 +2782,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2798,7 +2798,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2814,7 +2814,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2830,7 +2830,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2846,7 +2846,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2862,7 +2862,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2878,7 +2878,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2894,7 +2894,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2910,7 +2910,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2926,7 +2926,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2942,7 +2942,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2958,7 +2958,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2974,7 +2974,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -2990,7 +2990,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3006,7 +3006,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3022,7 +3022,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3038,7 +3038,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3054,7 +3054,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3070,7 +3070,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3086,7 +3086,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3102,7 +3102,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3118,7 +3118,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3134,7 +3134,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3150,7 +3150,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3166,7 +3166,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3182,7 +3182,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3198,7 +3198,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3214,7 +3214,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3230,7 +3230,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3246,7 +3246,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3262,7 +3262,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3278,7 +3278,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3294,7 +3294,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3310,7 +3310,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3326,7 +3326,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3342,7 +3342,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3358,7 +3358,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3374,7 +3374,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3390,7 +3390,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3406,7 +3406,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3422,7 +3422,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3438,7 +3438,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3454,7 +3454,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3470,7 +3470,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3486,7 +3486,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3502,7 +3502,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3518,7 +3518,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3534,7 +3534,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3550,7 +3550,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3566,7 +3566,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3582,7 +3582,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3598,7 +3598,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3614,7 +3614,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3630,7 +3630,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3646,7 +3646,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3662,7 +3662,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3678,7 +3678,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3694,7 +3694,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3710,7 +3710,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3726,7 +3726,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3742,7 +3742,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3758,7 +3758,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3774,7 +3774,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3790,7 +3790,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3806,7 +3806,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3822,7 +3822,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3838,7 +3838,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3854,7 +3854,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3870,7 +3870,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3886,7 +3886,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -3897,12 +3897,12 @@
       "start": "2026-09-22",
       "end": "2027-03-01",
       "type": "기획전",
-      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_01/list.do;jsessionid=90CD6A98ADC60B4D2B95927079EAD4CB",
+      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_01/list.do;jsessionid=6AE99FC43B55A421788EBA6230541168",
       "id": "gongju--2026-09-22",
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": true
     },
@@ -3913,12 +3913,12 @@
       "start": "2026-09-22",
       "end": "2027-03-01",
       "type": "기획전",
-      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_02/list.do;jsessionid=90CD6A98ADC60B4D2B95927079EAD4CB",
+      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_02/list.do;jsessionid=6AE99FC43B55A421788EBA6230541168",
       "id": "gongju--2026-09-22",
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": true
     },
@@ -3929,12 +3929,12 @@
       "start": "2026-09-22",
       "end": "2027-03-01",
       "type": "기획전",
-      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_03/list.do;jsessionid=90CD6A98ADC60B4D2B95927079EAD4CB",
+      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_03/list.do;jsessionid=6AE99FC43B55A421788EBA6230541168",
       "id": "gongju--2026-09-22",
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": true
     },
@@ -3945,12 +3945,12 @@
       "start": "2025-09-16",
       "end": "2026-02-22",
       "type": "기획전",
-      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_01/list.do;jsessionid=90CD6A98ADC60B4D2B95927079EAD4CB",
+      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_01/list.do;jsessionid=6AE99FC43B55A421788EBA6230541168",
       "id": "gongju--2025-09-16",
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": true
     },
@@ -3961,12 +3961,12 @@
       "start": "2025-09-16",
       "end": "2026-02-22",
       "type": "기획전",
-      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_02/list.do;jsessionid=90CD6A98ADC60B4D2B95927079EAD4CB",
+      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_02/list.do;jsessionid=6AE99FC43B55A421788EBA6230541168",
       "id": "gongju--2025-09-16",
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": true
     },
@@ -3977,12 +3977,12 @@
       "start": "2025-09-16",
       "end": "2026-02-22",
       "type": "기획전",
-      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_03/list.do;jsessionid=90CD6A98ADC60B4D2B95927079EAD4CB",
+      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_03/list.do;jsessionid=6AE99FC43B55A421788EBA6230541168",
       "id": "gongju--2025-09-16",
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": true
     },
@@ -3993,12 +3993,12 @@
       "start": "2025-09-16",
       "end": "2026-02-22",
       "type": "기획전",
-      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_03/list.do;jsessionid=90CD6A98ADC60B4D2B95927079EAD4CB?pageIndex=1",
+      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_03/list.do;jsessionid=6AE99FC43B55A421788EBA6230541168?pageIndex=1",
       "id": "gongju--2025-09-16",
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": true
     },
@@ -4009,12 +4009,12 @@
       "start": "2025-09-16",
       "end": "2026-02-22",
       "type": "기획전",
-      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_03/list.do;jsessionid=90CD6A98ADC60B4D2B95927079EAD4CB?pageIndex=1",
+      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_03/list.do;jsessionid=6AE99FC43B55A421788EBA6230541168?pageIndex=1",
       "id": "gongju--2025-09-16",
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": true
     },
@@ -4025,12 +4025,12 @@
       "start": "2025-09-16",
       "end": "2026-02-22",
       "type": "기획전",
-      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_03/list.do;jsessionid=90CD6A98ADC60B4D2B95927079EAD4CB?pageIndex=10",
+      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_03/list.do;jsessionid=6AE99FC43B55A421788EBA6230541168?pageIndex=10",
       "id": "gongju-10-2025-09-16",
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": true
     },
@@ -4041,12 +4041,12 @@
       "start": "2025-09-16",
       "end": "2026-02-22",
       "type": "기획전",
-      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_03/list.do;jsessionid=90CD6A98ADC60B4D2B95927079EAD4CB?pageIndex=11",
+      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_03/list.do;jsessionid=6AE99FC43B55A421788EBA6230541168?pageIndex=11",
       "id": "gongju--2025-09-16",
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": true
     },
@@ -4057,12 +4057,12 @@
       "start": "2025-09-16",
       "end": "2026-02-22",
       "type": "기획전",
-      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_03/list.do;jsessionid=90CD6A98ADC60B4D2B95927079EAD4CB?pageIndex=11",
+      "source_url": "https://gongju.museum.go.kr/prog/speclDspy/kor/sub02_02_03/list.do;jsessionid=6AE99FC43B55A421788EBA6230541168?pageIndex=11",
       "id": "gongju--2025-09-16",
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": true
     },
@@ -4078,7 +4078,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4094,7 +4094,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4110,7 +4110,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4126,7 +4126,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4142,7 +4142,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4158,7 +4158,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4174,7 +4174,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4190,7 +4190,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4206,7 +4206,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4222,7 +4222,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4238,7 +4238,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4254,7 +4254,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4270,7 +4270,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4286,7 +4286,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4302,7 +4302,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4318,7 +4318,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4334,7 +4334,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4350,7 +4350,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4366,7 +4366,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4382,7 +4382,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4398,7 +4398,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4414,7 +4414,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4430,7 +4430,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4446,7 +4446,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4462,7 +4462,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4478,7 +4478,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4494,7 +4494,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4510,7 +4510,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4526,7 +4526,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4542,7 +4542,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4558,7 +4558,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4574,7 +4574,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4590,7 +4590,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4606,7 +4606,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4622,7 +4622,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4638,7 +4638,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4654,7 +4654,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4670,7 +4670,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4686,7 +4686,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4702,7 +4702,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4718,7 +4718,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4734,7 +4734,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4750,7 +4750,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4766,7 +4766,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4782,7 +4782,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4798,7 +4798,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4814,7 +4814,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4830,7 +4830,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4846,7 +4846,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4862,7 +4862,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4878,7 +4878,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4894,7 +4894,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4910,7 +4910,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4926,7 +4926,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4942,7 +4942,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4958,7 +4958,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4974,7 +4974,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -4990,7 +4990,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5006,7 +5006,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5022,7 +5022,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5038,7 +5038,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5054,7 +5054,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5070,7 +5070,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5086,7 +5086,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5102,7 +5102,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5118,7 +5118,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5134,7 +5134,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5150,7 +5150,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5166,7 +5166,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5182,7 +5182,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5198,7 +5198,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5214,7 +5214,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5230,7 +5230,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5246,7 +5246,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5262,7 +5262,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5278,7 +5278,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5294,7 +5294,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5310,7 +5310,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5326,7 +5326,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5342,7 +5342,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5358,7 +5358,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5374,7 +5374,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5390,7 +5390,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5406,7 +5406,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5422,7 +5422,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5438,7 +5438,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5454,7 +5454,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5470,7 +5470,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5486,7 +5486,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5502,7 +5502,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5518,7 +5518,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5534,7 +5534,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5550,7 +5550,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5566,7 +5566,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5582,7 +5582,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5598,7 +5598,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5614,7 +5614,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5630,7 +5630,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5646,7 +5646,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5662,7 +5662,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5678,7 +5678,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5694,7 +5694,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5710,7 +5710,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5726,7 +5726,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5742,7 +5742,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5758,7 +5758,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5774,7 +5774,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5790,7 +5790,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5806,7 +5806,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5822,7 +5822,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5838,7 +5838,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5854,7 +5854,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5870,7 +5870,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5886,7 +5886,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5902,7 +5902,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5918,7 +5918,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5934,7 +5934,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5950,7 +5950,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5966,7 +5966,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5982,7 +5982,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -5998,7 +5998,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -6014,7 +6014,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -6030,7 +6030,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -6046,7 +6046,7 @@
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -6062,7 +6062,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -6078,7 +6078,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -6094,7 +6094,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -6110,7 +6110,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -6126,7 +6126,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -6142,7 +6142,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -6158,7 +6158,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -6174,7 +6174,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -6190,7 +6190,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -6206,7 +6206,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -6222,7 +6222,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -6238,7 +6238,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -6254,7 +6254,7 @@
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
       "isUpdated": false
     },
@@ -6265,14 +6265,14 @@
       "start": "2026-07-07",
       "end": "2026-09-27",
       "type": "특별전",
-      "source_url": "https://gongju.museum.go.kr/cmm/fms/FileDown.do;jsessionid=90CD6A98ADC60B4D2B95927079EAD4CB?atchFileId=FILE_000000006148To4&fileSn=0",
+      "source_url": "https://gongju.museum.go.kr/cmm/fms/FileDown.do;jsessionid=6AE99FC43B55A421788EBA6230541168?atchFileId=FILE_000000006148To4&fileSn=0",
       "id": "gongju-2026-2026-07-07-2026-09-27-pdf-2026-07-07",
       "title_zh": "",
       "important": true,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
-      "isUpdated": false
+      "isUpdated": true
     },
     {
       "museum_id": "gongju",
@@ -6281,14 +6281,14 @@
       "start": "2026-05-02",
       "end": "2027-02-28",
       "type": "기획전",
-      "source_url": "https://gongju.museum.go.kr/cmm/fms/FileDown.do;jsessionid=90CD6A98ADC60B4D2B95927079EAD4CB?atchFileId=FILE_000000005900Sq1&fileSn=0",
+      "source_url": "https://gongju.museum.go.kr/cmm/fms/FileDown.do;jsessionid=6AE99FC43B55A421788EBA6230541168?atchFileId=FILE_000000005900Sq1&fileSn=0",
       "id": "gongju-0413-pdf-2026-05-02",
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
-      "isUpdated": false
+      "isUpdated": true
     },
     {
       "museum_id": "gongju",
@@ -6297,14 +6297,14 @@
       "start": "2026-03-18",
       "end": "2026-06-21",
       "type": "기획전",
-      "source_url": "https://gongju.museum.go.kr/cmm/fms/FileDown.do;jsessionid=90CD6A98ADC60B4D2B95927079EAD4CB?atchFileId=FILE_000000005847Fi5&fileSn=0",
+      "source_url": "https://gongju.museum.go.kr/cmm/fms/FileDown.do;jsessionid=6AE99FC43B55A421788EBA6230541168?atchFileId=FILE_000000005847Fi5&fileSn=0",
       "id": "gongju-mp4-2026-03-18",
       "title_zh": "",
       "important": false,
       "discovery": "auto",
-      "lastChecked": "2026-09-24",
+      "lastChecked": "2026-09-25",
       "isNew": true,
-      "isUpdated": false
+      "isUpdated": true
     }
   ]
 }
